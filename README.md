@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Srividya! <br/><a href="https://www.linkedin.com/in/srividyasrinivasan/">Cybersecurity Graduate</a></h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+<h2>📜 Certifications:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: www.linkedin.com/in/srividyasrinivasan
 
 <!--
-**srividyasrinivasan-hii/srividyasrinivasan-hii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
